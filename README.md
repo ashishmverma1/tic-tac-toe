@@ -2,7 +2,7 @@
 
 An unbeatable Tic-Tac-Toe game
 ------------------------------
-This is a tic-tac-toe game that I have been building using <a href="http://en.wikipedia.org/wiki/Minimax">minimax algorithm</a> from game theory, to make it unbeatable.
+This is a tic-tac-toe game that I have been building using <a target="_blank" href="http://en.wikipedia.org/wiki/Minimax">minimax algorithm</a> from game theory, to make it unbeatable.
 
 
 Tech Stuff Used
